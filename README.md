@@ -10,7 +10,7 @@
 
 ## 🔗 Quer acessar o projeto?
 
-[Clique aqui para ver]()
+[Clique aqui para ver](https://eugenio-cyber.github.io/cubos-flix-api/)
 
 ## 🏹 Qual o objetivo do projeto?
 

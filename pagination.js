@@ -13,6 +13,7 @@ btnPaginationNext.addEventListener("click", () => {
   }
 
   makeCardsMovies(prev, next);
+  modalMovie();
 });
 
 btnPaginationPrev.addEventListener("click", () => {
@@ -25,4 +26,5 @@ btnPaginationPrev.addEventListener("click", () => {
   }
 
   makeCardsMovies(prev, next);
+  modalMovie();
 });

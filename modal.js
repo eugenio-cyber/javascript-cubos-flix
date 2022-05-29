@@ -27,8 +27,6 @@ const modalMovie = () => {
 };
 
 const makeModal = (dataModal) => {
-  modalGenre.innerHTML = "";
-
   modalTitle.textContent = dataModal.title;
   imgModal.src = dataModal.backdrop_path;
   modalDescription.textContent = dataModal.overview;
@@ -52,5 +50,10 @@ modal.addEventListener("click", (event) => {
     event.target.className === "modal__close"
   ) {
     modal.classList.add("hidden");
+    modalGenre.innerHTML = "";
+    modalTitle.textContent = "";
+    imgModal.src = "";
+    modalDescription.textContent = "";
+    modalAverage.textContent = "";
   }
 });

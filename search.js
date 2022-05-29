@@ -24,4 +24,5 @@ const searchMovie = async (movieName) => {
   moviesSearch = [];
   moviesSearch = results;
   makeCardsMovies(0, 5);
+  modalMovie();
 };

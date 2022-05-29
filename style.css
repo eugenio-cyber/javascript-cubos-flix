@@ -5,11 +5,11 @@
 }
 
 body {
-  --background-color: #FFF;
+  --background-color: #fff;
   --input-border-color: #979797;
   --color: #000;
   --shadow-color: 0px 4px 8px rgba(0, 0, 0, 0.15);
-  --highlight-background: #FFF;
+  --highlight-background: #fff;
   --highlight-color: rgba(0, 0, 0, 0.7);
   --highlight-description: #000;
 
@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-  background-color: #A785ED;
+  background-color: #a785ed;
 
   display: flex;
   justify-content: space-between;
@@ -27,13 +27,13 @@ body {
 }
 
 .header__title {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 150%;
 
-  color: #FDFDFD;
+  color: #fdfdfd;
 }
 
 .btn-theme {
@@ -62,8 +62,9 @@ body {
   color: var(--color);
 }
 
-.input, .input::placeholder {
-  font-family: 'Manrope', sans-serif;
+.input,
+.input::placeholder {
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -74,7 +75,8 @@ body {
   color: var(--input-border-color);
 }
 
-.movies-container, .movies {
+.movies-container,
+.movies {
   display: flex;
   align-items: center;
   gap: 24px;
@@ -84,7 +86,8 @@ body {
   margin-bottom: 40px;
 }
 
-.btn-prev, .btn-next {
+.btn-prev,
+.btn-next {
   cursor: pointer;
 }
 
@@ -116,7 +119,7 @@ body {
 }
 
 .movie__title {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -127,21 +130,21 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 
-  color: #FDFDFD;
+  color: #fdfdfd;
 }
 
 .movie__rating {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
   line-height: 150%;
 
-  color: #FBCD6E;
+  color: #fbcd6e;
 }
 
 .subtitle {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -155,6 +158,7 @@ body {
 .highlight {
   display: flex;
   gap: 24px;
+  margin-bottom: 122px;
 }
 
 .highlight__video {
@@ -164,6 +168,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .highlight__info {
@@ -185,27 +193,27 @@ body {
 }
 
 .highlight__title {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 150%;
 
-  color: #E183C8;
+  color: #e183c8;
 }
 
 .highlight__rating {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 150%;
 
-  color: #A785ED;
+  color: #a785ed;
 }
 
 .highlight__genre-launch {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -214,12 +222,12 @@ body {
   text-transform: uppercase;
 
   color: var(--highlight-color);
-  
+
   margin-bottom: 36px;
 }
 
 .highlight__description {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -258,13 +266,13 @@ body {
 }
 
 .modal__title {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 150%;
 
-  color: #FFFFFF;
+  color: #ffffff;
 
   margin-bottom: 40px;
 }
@@ -277,13 +285,13 @@ body {
 .modal__description {
   max-width: 730px;
 
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 150%;
-  
-  color: #FFFFFF;
+
+  color: #ffffff;
 
   margin-bottom: 20px;
 }
@@ -300,23 +308,24 @@ body {
   gap: 12px;
 }
 
-.modal__genre, .modal__average {
+.modal__genre,
+.modal__average {
   border-radius: 8px;
   padding: 10px;
 
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 150%;
-  
-  color: #FFFFFF;
+
+  color: #ffffff;
 }
 
 .modal__genre {
-  background: #E183C8;
+  background: #e183c8;
 }
 
 .modal__average {
-  background: #A785ED;
+  background: #a785ed;
 }

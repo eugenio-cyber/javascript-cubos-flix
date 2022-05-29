@@ -4,7 +4,7 @@
   
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
 </p>
 <br>
 
@@ -14,15 +14,13 @@
 
 ## 🏹 Qual o objetivo do projeto?
 
-Em desenvolvimento.
+O objetivo desse projeto é simular um serviço de streaming por meio do cunsumo duma API. Além de colocar meus conhecimentos sobre construção de sites e consumo de APIs em prática.
 
 ## 💻 Como usar?
 
-Em desenvolvimento.
+Assim que o website é aberto você terá uma listagem de filmes que quando clicado irá abrir um modal com as insformações do mesmo, também é possível pesquisar um filme desejado por meio da barra de pesquisa e por fim sempre será mostrado o filme do dia como sugestão para você assistir.
 
 ## 🛠️ Ferramentas utilizadas?
-
-Em desenvolvimento.
 
 <div>
   <img height=30 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

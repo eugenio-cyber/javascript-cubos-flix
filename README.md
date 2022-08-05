@@ -14,7 +14,7 @@
 
 ## 🏹 Qual o objetivo do projeto?
 
-O objetivo desse projeto é simular um serviço de streaming por meio do cunsumo duma API. Além de colocar meus conhecimentos sobre construção de sites e consumo de APIs em prática.
+O objetivo desse projeto é o desenvolvimento duam aplicação capaz de mostrar e detalhar os filmes que estão em alta por meio do cunsumo duma API. Além de colocar meus conhecimentos sobre construção de sites e consumo de APIs em prática.
 
 ## 💻 Como usar?
 

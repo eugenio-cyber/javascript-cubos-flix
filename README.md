@@ -1,16 +1,16 @@
 <h3 align="center">
  Cubos Flix
 </h3>
-  
-<br>
+
 <p align="center">
-<img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
 </p>
+
 <br>
 
 ## 🔗 Quer acessar o projeto?
 
-[Clique aqui para ver](https://eugenio-cyber.github.io/javascript-api-cubos-flix)
+Clique [aqui](https://eugenio-cyber.github.io/javascript-api-cubos-flix) para acessar o projeto.
 
 ## 🏹 Qual o objetivo do projeto?
 
@@ -30,4 +30,4 @@ Assim que o website é aberto você terá uma listagem de filmes que quando clic
 
 ## 💬 Feedback
 
-Envie um email para esse endereço <eugenio3@email.com> para dar um feedback, sugerir alguma mudança ou dar uma opnião sobre o projeto.
+Envie um email para esse endereço <wesleyeugenio3@gmail.com> para dar um feedback, sugerir alguma mudança ou dar uma opnião sobre o projeto.

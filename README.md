@@ -10,7 +10,7 @@
 
 ## 🔗 Quer acessar o projeto?
 
-Clique [aqui](https://eugenio-cyber.github.io/javascript-api-cubos-flix) para acessar o projeto.
+Clique [aqui](https://eugenio-cyber.github.io/javascript-cubos-flix) para acessar o projeto.
 
 ## 🏹 Qual o objetivo do projeto?
 

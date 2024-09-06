@@ -177,6 +177,7 @@ body {
 .highlight__info {
   max-width: 360px;
   height: 340px;
+  overflow: auto;
 
   background: var(--highlight-background);
   box-shadow: var(--shadow-color);
